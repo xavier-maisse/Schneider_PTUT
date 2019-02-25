@@ -12,3 +12,14 @@ Projet PTUT
 ```bash
 $ pip install -r requirements.txt --user
 ```
+
+## Configuration
+
+* Renommer `config.json.example` en `config.json`
+* Ajouter les jetons `access_token`, `refresh_token`, `client_id` et `client_secret`
+
+## Utilisation
+
+```bash
+$ ./script.py
+```
