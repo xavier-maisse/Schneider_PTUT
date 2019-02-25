@@ -7,7 +7,7 @@ Projet PTUT
 * Python 3
 * Un jeton d'authentification avec les droits sur un Sharepoint
 
-## Installation
+## Installation
 
 ```bash
 $ pip install -r requirements.txt --user
@@ -18,7 +18,7 @@ $ pip install -r requirements.txt --user
 * Renommer `config.json.example` en `config.json`
 * Ajouter les jetons `access_token`, `refresh_token`, `client_id` et `client_secret`
 
-## Utilisation
+## Utilisation
 
 ```bash
 $ ./script.py
